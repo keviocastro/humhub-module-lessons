@@ -1,0 +1,12 @@
+{
+    "id": "lessons",
+    "name": "Lessons",
+    "description": "Ambiente social, para compartilhamento de videos aulas",
+    "keywords": [
+        "dev"
+    ],
+    "version": "0.1",
+    "humhub": {
+    "minVersion": "0.20"
+    }
+}
